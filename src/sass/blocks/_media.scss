@@ -1,0 +1,36 @@
+@media (max-width: 767px) {
+    header {
+        &__logo {
+            width: 180px;
+        }
+        &__official {
+            width: 180px;
+            font-size: 8px;
+            .span {
+                font-size: 11px;
+               }
+        }
+
+    }
+    }
+
+@media (max-width: 767px) {
+    .tns-item {
+        img {
+            width: 100%;
+        }
+    }
+    .tns-nav {
+        position: absolute;
+        bottom: -15%;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+
+    }
+
+
+
+
+    
